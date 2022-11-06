@@ -1,0 +1,47 @@
+/* div8{
+        size: 500cm;
+}
+
+div1{
+    color: rgb(255, 61, 203);
+}
+div2{
+    color: rgb(207, 97, 0);
+}
+div3{
+        color: rgb(0, 182, 182);
+}
+div4{
+        color: rgb(0, 121, 121);
+}
+div5{
+        color: rgb(230, 111, 7);
+} */
+#div1{
+        color: aquamarine;
+}
+body{
+        background-color: black;
+        text-align: center;
+        font-size: 25px;
+}
+#divBP{
+        color: rgb(255, 101, 209);
+        
+}
+#divHil{
+        color: rgb(207, 97, 0);
+}
+#divDion{
+        color: rgb(0, 182, 182);
+}
+#divDP{
+        color: rgb(0, 121, 121);
+}
+#divAv{
+        color: rgb(244, 171, 69);
+}
+img{
+        width: 500px;
+        height:500px;
+}
